@@ -11,4 +11,4 @@ console.info("The substraction is " ,substration)
 console.error("The multiplication is " ,multiplication)
 console.warn("The division is " ,division)
 
-
+console.table("The numbers entered was " ,number1, "and", number2)
